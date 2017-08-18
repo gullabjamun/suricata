@@ -43,3 +43,7 @@ alert tcp any any -> any 443 (msg:"test https rule"; content:"graphgame.net"; si
 alert tcp any any -> any 443 (msg:"test https rule"; content:"www.phishtank.com"; sid:100044; rev:1;)
 alert tcp any any -> any 443 (msg:"test https rule"; content:"torrenthaja.com"; sid:100045; rev:1;)
 alert tcp any any -> any 443 (msg:"test https rule"; content:"webtoon.bamtoki.com"; sid:100046; rev:1;)
+alert tcp any any -> any 443 (msg:"test https rule"; content:"sex.com"; sid:100047; rev:1;)
+www.opioids.com/offshorepharmacy/index.html   --불가
+www.facebook.com/profile.php?id=100019007882633 --불가
+yobit.net/en/dice/ ---불가
